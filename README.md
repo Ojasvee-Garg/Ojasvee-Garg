@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ojasvee-Garg
-- 👀 I’m interested in cloud architect and product management
-- 🌱 I’m currently learning HTML, CSS, Java, C
+- 👀 I’m interested in full-stack development, cloud architect and product management
+- 🌱 I’m learning frontend development
 - 📫 How to reach me at ojasveegarg@gmail.com
 - 💞️ I am planning a career transition into tech
 
